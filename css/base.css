@@ -1,0 +1,14 @@
+/*=======reset css========*/
+*,
+*::before,
+*::after{
+    /*所有的标签，和伪元素都选中*/
+    margin: 0;
+    padding: 0;
+    /*移动端常用布局是非固定像素*/
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+/*=======common css========*/
